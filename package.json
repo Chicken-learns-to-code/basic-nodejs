@@ -27,7 +27,8 @@
     "express": "^4.17.3",
     "express-handlebars": "^6.0.5",
     "express-load": "^1.1.7",
-    "mongoose": "^6.3.0"
+    "mongoose": "^6.3.0",
+    "mongoose-slug-generator": "^1.0.4"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
