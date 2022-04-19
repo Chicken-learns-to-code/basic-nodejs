@@ -1,2 +1,8 @@
 #app {
   background: white; }
+
+.users-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px; }
