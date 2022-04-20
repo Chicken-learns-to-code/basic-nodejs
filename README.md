@@ -17,3 +17,7 @@ To download and execute you use the following 2 commands:
 and
 <pre><code class="language-console">$ npm run watch
 </code></pre>
+# Mongoose detele: Soft delete
+https://www.npmjs.com/package/mongoose-delete#who-has-deleted-the-data
+<pre><code class="language-console">$ npm i mongoose-delete
+</code></pre>
